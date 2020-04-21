@@ -15,3 +15,5 @@
 6. Make changes to your test cases, then push again to see the build pass.
 
 7.(Optional) Submit a pull request to the main repository and check out the automatic report within your Pull Request genrerated by Travis-CI.
+
+[![Build Status](https://travis-ci.com/malithp/TravisCIDemo754.svg?branch=master)](https://travis-ci.com/malithp/TravisCIDemo754)
