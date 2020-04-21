@@ -1,6 +1,6 @@
 dist: xenial
 language: java
-addons:
-  apt:
-    packages:
-      - ant
+before_install:
+  - chmod +x gradlew
+jdk:
+  - oraclejdk8
